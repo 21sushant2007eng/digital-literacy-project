@@ -3,9 +3,9 @@
 
 ---
 
-**Name:** AYUSH SINGH
-**Registration Number:** 25BAI11039
-**Branch:** B.Tech – Computer Science and Engineering  
+**Name:** SUSHANT KUMAR
+**Registration Number:** 25BAI10755
+**Branch:** B.Tech – CSE(AIML)
 **Year:** First Year | 2024–25  
 **Course Code:** CSE0001  
 
@@ -56,9 +56,8 @@ Researched UPI/Online Payment Fraud as my chosen cybercrime type. Wrote a 200-wo
 
 ## Platforms I Am On
 
-- GitHub: https://github.com/idkayusherror404/digital-literacy-01
-- LinkedIn: https://www.linkedin.com/in/ayush-singh-rajput-42611b3bb/
-- Kaggle: https://www.kaggle.com/ayushsinghrajput404
+- GitHub: https://github.com/21sushant2007eng/digital-literacy-project
+- LinkedIn: https://www.linkedin.com/in/sushant-kumar-599398393/
 ---
 
 ## References
