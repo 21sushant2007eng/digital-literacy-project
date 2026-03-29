@@ -1,6 +1,6 @@
 Task 1 — Digital Literacy Infographic
 
-Tool Used: CANVA AND GAMMA AI
+Tool Used: HTML and CSS
 The infographic file is named infographic.html in this folder. Open it in any browser to view the full design. A screenshot of the rendered infographic is also included as infographic-screenshot.png.
 
 What the infographic covers:
