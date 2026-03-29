@@ -6,9 +6,9 @@ VIT Bhopal University
 
 
 
-Name:              AYUSH SINGH
-Registration No.:   25BAI11039
-Branch:             B.Tech – Computer Science and Engineering
+Name:              SUSHANT KUMAR
+Registration No.:   25BAI10755
+Branch:             B.Tech – CSE(AIML)
 Year / Semester:    First Year | Semester 2
 Course Code:        CSE0001
 Submission Date:    30/03/2026
